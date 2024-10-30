@@ -18,4 +18,4 @@ Bu proje, SCSS kullanarak oluşturduğum JBL web sitesi klonudur. Responsive tas
 
 -SCSS (Sassy CSS): CSS'i modüler bir şekilde organize etmek ve stil vermek için.
 
--JavaScript (isteğe bağlı): Ek etkileşimler için (varsa).
+
